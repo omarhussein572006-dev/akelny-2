@@ -25,4 +25,4 @@ Note that you need to use same password that you used during installing postgres
 16. run code using command npm run server or node server.js from terminal
 
 Also click on visual studio code extensions then search for thunder client then install it to test your backend
-(clicking ctrl + c to stop runnning server code exit by clicking)
+(clicking ctrl + c to stop runnning server code exit by clicking) fknnd
